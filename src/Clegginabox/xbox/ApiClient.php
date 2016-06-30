@@ -3,8 +3,6 @@ namespace Clegginabox\Xbox;
 
 use GuzzleHttp\Client;
 
-require_once __DIR__ . '/../../../vendor/autoload.php';
-
 class ApiClient
 {
     /*
