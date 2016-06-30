@@ -11,11 +11,6 @@ class ApiClient
     const ENDPOINT = 'https://xboxapi.com/v2/';
 
     /**
-     * Xbox API Key
-     */
-    const API_KEY = '012555115e7ed85a146c7a693834818ec84c082f';
-
-    /**
      * @type \GuzzleHttp\Client
      */
     protected $client;
