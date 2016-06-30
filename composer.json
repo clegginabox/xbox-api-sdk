@@ -1,0 +1,16 @@
+{
+  "name": "clegginabox/xbox-api-sdk",
+  "description": "PHP SDK for the Unofficial Xbox API",
+  "require": {
+    "guzzlehttp/guzzle": "^6.2"
+  },
+  "authors": [{
+    "name": "Paul Clegg",
+    "email": "paul@clegginabox.co.uk"
+  }],
+  "autoload": {
+    "psr-0": {
+      "Clegginabox": "src/"
+    }
+  }
+}
